@@ -6,7 +6,7 @@ JWEB13.0  is  also  called  as  JDollarPart14  and  it  is  invented  by  wilmix
 at  year  2017.
 
 
-JWEB13.0  has  4  Modules  and  new  Technology  like  Tabernacle and  J$JSAUCER 
+JWEB13.0  has  4  Modules  and  new  Technology  like  Tabernacle ,  J$JSAUCER 
 
 and J$WEB....
 
