@@ -18,3 +18,10 @@ b) J$WEB => This  framework  is  used for  web purpose
 c) TABERNACLE :  JDollar new Advanced  Concepts 
 
 d)  J$JSAUCER : Better  than Tabernacle
+
+
+Note:  The  features   and  advantages  are   hidden  from  illegal  hackers
+
+from   copying  it's  features  and  implementing  it ...
+
+Note:  This  part  of   Tutorial  is  not  opensource...
