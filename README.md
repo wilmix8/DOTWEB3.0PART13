@@ -18,7 +18,7 @@ c) TABERNACLE : new  JDollar  concepts
 
 d)  J$JSAUCER : Serverless  web application.
 
-e) J$UWP => J$USERINTEFACEWEBPAGES
+e) J$UWP => J$USERINTERFACEWEBPAGES
 
 Note:  The  features   and  advantages  are   hidden  from  illegal  hackers
 
