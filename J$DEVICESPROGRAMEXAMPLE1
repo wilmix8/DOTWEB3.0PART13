@@ -1,0 +1,55 @@
+
+<JDollar>
+
+<PACK> Program5
+{
+  
+    <CLASS> Prog
+   {
+
+  
+      public void main()
+      {
+
+
+JDollar.Writeln(" <HTML>");
+ 
+  
+JDollar.Writeln("<form>");
+
+
+<MEMALLOCATE>
+
+<J$MEM>
+
+<STORE>
+
+<J$ADTS>
+
+<J$WEBMEM>
+
+<J$DTS>
+
+<J$MISC>
+
+
+
+
+JDollar.Writeln("</form>");
+
+JDollar.Writeln("</html>");
+      
+ 
+
+
+		
+%>
+
+
+?>
+
+
+Output:
+======
+
+This   J$program  will list  all   the  devices used  J$MEM ,etc...
