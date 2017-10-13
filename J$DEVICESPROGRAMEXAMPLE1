@@ -18,19 +18,19 @@ JDollar.Writeln(" <HTML>");
 JDollar.Writeln("<form>");
 
 
-<MEMALLOCATE>
+<MEMALLOCATE> // allocate  the  J$MEMMORY
 
-<J$MEM>
+<J$MEM> //call  J$MEM GUI
 
-<STORE>
+<STORE> //call STORE GUI
 
-<J$ADTS>
+<J$ADTS>  //call  J$ADVANCED-Datastructures GUI
 
-<J$WEBMEM>
+<J$WEBMEM>  //call  J$WEBMEM GUI
 
-<J$DTS>
+<J$DTS>  //call  J$Datastructures GUI
 
-<J$MISC>
+<J$MISC>   //call  J$MISC GUI; it  is   used  for  other  datastructures....
 
 
 
