@@ -1,0 +1,200 @@
+
+
+J$GUI  :Example2
+================
+
+<JDollar>
+
+
+
+
+<PACK> Program5
+{
+  
+    <CLASS> Prog
+   {
+
+  
+      public void main()
+      {
+
+
+
+
+
+JDollar.Writeln(" <HTML>");
+ 
+  
+JDollar.Writeln("<form>");
+
+
+
+
+
+<MEMALLOCATE>
+
+
+
+
+
+
+<TextBox>{ //  Textbox  for  JDollar
+
+
+
+JDollar.Writeln("wilmix");
+
+}
+
+JDollar.Writeln("<BR><BR>");
+
+<PTextBox>{ //  PasswordTextbox  for  JDollar
+
+
+
+JDollar.Writeln("wilmix");
+
+}
+
+
+
+
+
+
+<RADIO>{  //  Radio button  for  JDollar
+
+JDollar.Writeln("name=Apple");
+
+}
+
+
+
+<RADIO>{ 
+
+JDollar.Writeln("name=mango");
+
+}
+
+
+
+<CHECKBOX>{ // Checkbox  for  JDollar
+
+
+JDollar.Writeln(" name=Apple"); //  add  parameters  name=mango
+
+}
+
+
+<CHECKBOX>{ 
+
+
+JDollar.Writeln(" name=mango");
+
+}
+
+
+
+
+<CHOICE>{ 
+
+JDollar.Writeln("cities");
+
+}
+
+
+<OPTION>{  //option  box  with  choices
+
+JDollar.Writeln("ness");
+}
+
+JDollar.Writeln("ness");
+ </OPTION>
+
+
+<OPTION>{ 
+
+
+JDollar.Writeln("ness1");
+
+}
+
+
+JDollar.Writeln("ness1");
+</OPTION>
+
+
+
+<OPTION>{  
+
+
+JDollar.Writeln("ness2");
+
+}
+
+
+JDollar.Writeln("ness2");
+
+</OPTION>
+
+
+</CHOICE>
+
+
+
+
+<BEGIN> // start  of  WEBPAGE  navigation
+
+
+<LINE> // next panel
+
+<DECISION>  // take  decision  
+
+ <LINE> // yes  means  read  webpage
+
+<READWEBPAGE>
+
+JDollar.Writeln("<a  href =GUI.j$ > GUI </a>");
+
+<LINE>// no  means  display  webpage
+ <DISPLAYWEBPAGE> 
+
+
+JDollar.Writeln("<a  href =GUI.j$ > GUI1 </a>");
+<LINE> // next panel
+
+
+<HOLDDATA> //insert  or  do  manipulation date  with  J$MEM
+
+
+JDollar.Writeln("<a  href =GUI.j$ > GUI3 </a>");
+
+
+<LINE> //next  panel
+
+
+
+<QUARE> // Loop  termination
+
+
+JDollar.Writeln("<a  href =GUI.j$ > GUI3 </a>");
+
+<LINE> //  next  panel
+
+<END> //  End  of  webpage  navigation
+
+
+
+
+
+JDollar.Writeln("</form>");
+
+JDollar.Writeln("</html>");
+      
+ 
+
+
+		
+%>
+
+
+?>
